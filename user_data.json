@@ -4,6 +4,14 @@
         "amount": 8,
         "state": "ready_to_pay",
         "alias": "Trivisc",
-        "products": []
+        "products": [
+            {
+                "plan": "\ud83d\udc8eKingDiv \ud83d\udcab 1 Week \u2014 8 USDT | Quick Profits \ud83d\udd25",
+                "amount": 8,
+                "date": "2025-10-16 12:38:43",
+                "key": 46425641652,
+                "activation_key": "4691173114714"
+            }
+        ]
     }
 }
